@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="3522Asn2" targetName="3522Asn2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16f7d02f-d460-4301-9af3-5f115e345d1a" name="Default Changelist" comment="fixed decimal places">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1k7POTJ3FrIRvbkhgyCiOcQHYoc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="3522Asn2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="3522Asn2" TARGET_NAME="3522Asn2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="3522Asn2" RUN_TARGET_NAME="3522Asn2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16f7d02f-d460-4301-9af3-5f115e345d1a" name="Default Changelist" comment="" />
+      <created>1605048624239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605048624239</updated>
+      <workItem from="1605048625608" duration="626000" />
+      <workItem from="1605235289348" duration="984000" />
+      <workItem from="1605587684069" duration="966000" />
+      <workItem from="1605891252913" duration="1773000" />
+      <workItem from="1606099137379" duration="8092000" />
+      <workItem from="1606176405071" duration="23890000" />
+      <workItem from="1606277354744" duration="601000" />
+      <workItem from="1606280753600" duration="7978000" />
+      <workItem from="1606372032779" duration="1204000" />
+      <workItem from="1606604425440" duration="28498000" />
+      <workItem from="1606677091362" duration="9579000" />
+      <workItem from="1606695544931" duration="249000" />
+      <workItem from="1606695915175" duration="6000" />
+      <workItem from="1606705934416" duration="1052000" />
+      <workItem from="1606710653910" duration="303000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit1">
+      <created>1605246815629</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605246815629</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit1">
+      <created>1606198528464</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606198528464</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit2">
+      <created>1606200843668</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606200843668</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit3">
+      <created>1606204819498</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606204819498</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit4">
+      <created>1606205880195</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606205880195</updated>
+    </task>
+    <task id="LOCAL-00006" summary="breeding">
+      <created>1606289902549</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606289902549</updated>
+    </task>
+    <task id="LOCAL-00007" summary="breeding2">
+      <created>1606291862621</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606291862621</updated>
+    </task>
+    <task id="LOCAL-00008" summary="format1">
+      <created>1606292305834</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606292305834</updated>
+    </task>
+    <task id="LOCAL-00009" summary="WIP">
+      <created>1606619290142</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606619290142</updated>
+    </task>
+    <task id="LOCAL-00010" summary="WIP2">
+      <created>1606623484388</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1606623484388</updated>
+    </task>
+    <task id="LOCAL-00011" summary="WIP3">
+      <created>1606629560309</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1606629560309</updated>
+    </task>
+    <task id="LOCAL-00012" summary="WIP4">
+      <created>1606630596705</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1606630596705</updated>
+    </task>
+    <task id="LOCAL-00013" summary="WIP5">
+      <created>1606632357299</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1606632357299</updated>
+    </task>
+    <task id="LOCAL-00014" summary="WIP6">
+      <created>1606633059302</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1606633059302</updated>
+    </task>
+    <task id="LOCAL-00015" summary="WIP7">
+      <created>1606633830496</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1606633830496</updated>
+    </task>
+    <task id="LOCAL-00016" summary="WIP8">
+      <created>1606634933779</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1606634933779</updated>
+    </task>
+    <task id="LOCAL-00017" summary="WIP9">
+      <created>1606636384296</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1606636384296</updated>
+    </task>
+    <task id="LOCAL-00018" summary="WIP10">
+      <created>1606636815575</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1606636815575</updated>
+    </task>
+    <task id="LOCAL-00019" summary="WIP11">
+      <created>1606636888953</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1606636888953</updated>
+    </task>
+    <task id="LOCAL-00020" summary="modulize code">
+      <created>1606681367396</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1606681367396</updated>
+    </task>
+    <task id="LOCAL-00021" summary="modulize code2">
+      <created>1606682229078</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1606682229078</updated>
+    </task>
+    <task id="LOCAL-00022" summary="modulize code3">
+      <created>1606682370437</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1606682370437</updated>
+    </task>
+    <task id="LOCAL-00023" summary="modulize code4">
+      <created>1606688627774</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1606688627774</updated>
+    </task>
+    <task id="LOCAL-00024" summary="modulize code5">
+      <created>1606690429573</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1606690429573</updated>
+    </task>
+    <task id="LOCAL-00025" summary="changed the termination requirements">
+      <created>1606691272574</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1606691272574</updated>
+    </task>
+    <task id="LOCAL-00026" summary="changed the termination requirements">
+      <created>1606706367336</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1606706367336</updated>
+    </task>
+    <task id="LOCAL-00027" summary="fixed decimal places">
+      <created>1606706950754</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1606706950754</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit1" />
+    <MESSAGE value="commit2" />
+    <MESSAGE value="commit3" />
+    <MESSAGE value="commit4" />
+    <MESSAGE value="breeding" />
+    <MESSAGE value="breeding2" />
+    <MESSAGE value="format1" />
+    <MESSAGE value="WIP" />
+    <MESSAGE value="WIP2" />
+    <MESSAGE value="WIP3" />
+    <MESSAGE value="WIP4" />
+    <MESSAGE value="WIP5" />
+    <MESSAGE value="WIP6" />
+    <MESSAGE value="WIP7" />
+    <MESSAGE value="WIP8" />
+    <MESSAGE value="WIP9" />
+    <MESSAGE value="WIP10" />
+    <MESSAGE value="WIP11" />
+    <MESSAGE value="modulize code" />
+    <MESSAGE value="modulize code2" />
+    <MESSAGE value="modulize code3" />
+    <MESSAGE value="modulize code4" />
+    <MESSAGE value="modulize code5" />
+    <MESSAGE value="changed the termination requirements" />
+    <MESSAGE value="fixed decimal places" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed decimal places" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#New_File_Extensions" timestamp="1606178216142">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#New_File_Extensions/0.0.1536.824@0.0.1536.824" timestamp="1606178216142" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1606680226830">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1606680226830" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1606198489486">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606198489486" />
+    <state x="647" y="310" key="Github.ShareDialog" timestamp="1605048645791">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1605048645791" />
+    <state x="570" y="117" key="Github.UntrackedFilesDialog" timestamp="1605048650566">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="570" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1605048650566" />
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1606710911202">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606710911202" />
+    <state width="1493" height="207" key="GridCell.Tab.0.center" timestamp="1606710911202">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606710911202" />
+    <state width="1493" height="207" key="GridCell.Tab.0.left" timestamp="1606710911202">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606710911202" />
+    <state width="1493" height="207" key="GridCell.Tab.0.right" timestamp="1606710911202">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606710911202" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1606198267713">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606198267713" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606706956553">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606706956553" />
+    <state x="649" y="197" key="refactoring.ChangeSignatureDialog" timestamp="1606617949081">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="649" y="197" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1606617949081" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1606689513180">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1606689513180" />
+  </component>
+</project>
